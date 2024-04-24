@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luisaphysics22
 - 👀 I’m interested in working for a Tech Company.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, C and Python.
 - 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 How to reach me by email luisateixeirauk@gmail.com
 
