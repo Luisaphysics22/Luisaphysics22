@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luisaphysics22
+- 👋 Hi, I’m Luisa.
 - 👀 I’m interested in working for a Tech Company.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, C and Python.
 - 💞️ I’m looking to collaborate on Web Development projects.
