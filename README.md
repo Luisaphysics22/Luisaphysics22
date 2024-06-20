@@ -1,4 +1,4 @@
-# 👩🏻‍🏫Luisaphysics22
+# 👩🏻‍🏫Luisa Lemos
 
 Olá meu nome é Luísa Lemos Teixeira, e sou formada em Licenciatura em Físca pela UFRJ desde 2022. Atualmente moro na Inglaterra em Warrington e estou aberta à vagas de trabalho remoto. Sou fluente em Inglês e nativa do Português (BR).
 
