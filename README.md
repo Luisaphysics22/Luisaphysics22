@@ -30,6 +30,8 @@ I've been actively studying programming since 2021. I have experience with Front
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luisaphysics22)
 
 ## GitHub Statistics 📈📊
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Luisaphysics22&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luisaphysics22&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=#ff33cc&title_color=#ff33cc&text_color=FFF)
 
 ## Minhas contribuições / My contributions 🗂️👩🏻‍💻
