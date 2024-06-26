@@ -40,4 +40,7 @@ I've been actively studying programming since 2021. I have experience with Front
 
 ## Meus projetos / My projects 🗂️👩🏻‍💻
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Luisaphysics22&repo=banking_system_luisa_l_teixeira&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Luisaphysics22/banking_system_luisa_l_teixeira.git)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Luisaphysics22&repo=new_banking_system&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Luisaphysics22/new_banking_system.git)
 
