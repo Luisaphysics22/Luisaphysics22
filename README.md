@@ -34,6 +34,8 @@ I've been actively studying programming since 2021. I have experience with Front
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luisaphysics22&theme=ambient_gradient&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=#ff33cc&title_color=#ff33cc&text_color=FFF)
 
+![Luisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisaphysics22&show_icons=true&theme=ambient_gradient)
+
 ## Minhas contribuições / My contributions 🎯
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Luisaphysics22&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Luisaphysics22/dio-lab-open-source)
