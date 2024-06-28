@@ -1,5 +1,5 @@
 # Luisa Lemos Teixeira👩🏻‍🏫
-
+![My avatar](https://www.icloud.com/photos/#/i,pz,01DAE35E-78CD-4E25-B295-1228BC9EC3D4,12399/)
 
 Olá meu nome é Luísa Lemos Teixeira, e sou formada em Licenciatura em Físca pela UFRJ desde 2022. Atualmente moro na Inglaterra em Warrington e estou aberta à vagas de trabalho remoto. Sou fluente em Inglês e nativa do Português (BR).
 
