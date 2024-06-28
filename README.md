@@ -27,18 +27,19 @@ I've been actively studying programming since 2021. I have experience with Front
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
 
 ## Conecte-se comigo no GitHub e no LinkedIn / Connect with me through GitHub and LinkedIn 🌍📱
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisa-lemos-teixeira/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luisaphysics22)
 
 ## GitHub Statistics 📈📊
 
-![Luisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisaphysics22&show_icons=true&theme=neon)
-
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Luisaphysics22&show_icons=true&theme=neon)
+
+![Luisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisaphysics22&show_icons=true&theme=neon)
 
 ## Minhas contribuições / My contributions 🎯
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Luisaphysics22&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Luisaphysics22/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Luisaphysics22&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&theme=neon)](https://github.com/Luisaphysics22/dio-lab-open-source)
 
 
 ## Meus projetos / My projects 🗂️👩🏻‍💻
