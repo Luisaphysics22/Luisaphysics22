@@ -1,4 +1,5 @@
-# 👩🏻‍🏫Luisa Lemos
+# Luisa Lemos Teixeira👩🏻‍🏫
+
 
 Olá meu nome é Luísa Lemos Teixeira, e sou formada em Licenciatura em Físca pela UFRJ desde 2022. Atualmente moro na Inglaterra em Warrington e estou aberta à vagas de trabalho remoto. Sou fluente em Inglês e nativa do Português (BR).
 
@@ -31,8 +32,6 @@ I've been actively studying programming since 2021. I have experience with Front
 
 ## GitHub Statistics 📈📊
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Luisaphysics22&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luisaphysics22&theme=ambient_gradient&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=#ff33cc&title_color=#ff33cc&text_color=FFF)
 
 ![Luisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisaphysics22&show_icons=true&theme=ambient_gradient)
 
