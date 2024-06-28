@@ -33,7 +33,10 @@ I've been actively studying programming since 2021. I have experience with Front
 ## GitHub Statistics 📈📊
 
 ![Luisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisaphysics22&show_icons=true&theme=ambient_gradient)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Luisaphysics22&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisaphysics22_weight=0.5&count_weight=0.5)
 
 ## Minhas contribuições / My contributions 🎯
 
