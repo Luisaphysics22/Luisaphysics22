@@ -1,5 +1,5 @@
 # Luisa Lemos Teixeira👩🏻‍🏫
-![My avatar](https://www.bing.com/images/create/could-you-create-a-picture-of-me-as-woman-with-lon/1-667d8c91967146d9ac924940ab26cc1d?id=BU%2fiJkpje%2b5MhH%2byAgkntg%3d%3d&view=detailv2&idpp=genimg&thId=OIG2.YAfSuO_fXOVYUZXCHSsi&darkschemeovr=1&FORM=GCRIDP&ssp=1&setlang=en-gb&cc=GB&safesearch=moderate)
+![gif](https://comunidade.querodobra.com.br/uploads/default/original/1X/3fd3ad17107f86794a6fb9aa6a94d704ec170eea.gif)
 
 Olá meu nome é Luísa Lemos Teixeira, e sou formada em Licenciatura em Físca pela UFRJ desde 2022. Atualmente moro na Inglaterra em Warrington e estou aberta à vagas de trabalho remoto. Sou fluente em Inglês e nativa do Português (BR).
 
