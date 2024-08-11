@@ -3,7 +3,7 @@
 
 Olá meu nome é Luísa Lemos Teixeira, e sou formada em Licenciatura em Físca pela UFRJ desde 2022. Atualmente moro na Inglaterra em Warrington e estou aberta à vagas de trabalho remoto. Sou fluente em Inglês e nativa do Português (BR).
 
-Estou em busca de uma mudança de carreira para a área de tecnologia, que me foi apresentada lá nos tempos da faculdade no Laboratório utilizando Python e na disciplina de Física Computacional quando utilizei o Fortran no ambiente do Ubuntu(Linux).
+Estou em busca de uma mudança de carreira para a área de tecnologia, que me foi apresentada lá nos tempos da faculdade no Laboratório utilizando Python e na disciplina de Física Computacional quando utilizei o Fortran no ambiente do Ubuntu (Linux).
 
 Hello, my name is Luisa Lemos Teixeira, and I have BSc in Physics from UFRJ since 2022. I currently live in England in Warrington and I am open to remote work vacancies. I am fluent in English and native in Portuguese (BR).
 
