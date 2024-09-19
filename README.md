@@ -10,9 +10,9 @@ Hello, my name is Luisa Lemos Teixeira, and I have a BSc in Physics from UFRJ (g
 I am looking to transition into a career in technology, an area I was introduced to during college. In the laboratory, I worked with Python, and in the Computational Physics course, I used Fortran in the Ubuntu (Linux) environment.
 
 ## Minhas habilidades / My Skills 💻📚
-Já venho estudando programação ativamente desde 2021. Tenho experiência com Front-End Development, Python, C e Git.
+Já venho estudando programação ativamente desde 2021. Tenho experiência com front-end development, Python, C, SQL, NoSQL and Git.
 
-I've been actively studying programming since 2021. I have experience with Front-End Development, Python, C, and Git.
+I've been actively studying programming since 2021. I have experience with front-end development, Python, C, SQL, NoSQL and Git.
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
