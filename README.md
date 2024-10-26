@@ -51,3 +51,5 @@ I've been actively studying programming since 2021. I have experience with HTML5
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Luisaphysics22&repo=secret_word_game&bg_color=000&border_color=30A3DC&show_icons=true&theme=neon)](https://github.com/Luisaphysics22/secret_word_game.git)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Luisaphysics22&repo=luisa_pokedex&bg_color=000&border_color=30A3DC&show_icons=true&theme=neon)](https://github.com/Luisaphysics22/luisa_pokedex.git)
+
