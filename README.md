@@ -1,18 +1,15 @@
 # Luisa Lemos Teixeira👩🏻‍🏫
 ![gif](https://comunidade.querodobra.com.br/uploads/default/original/1X/3fd3ad17107f86794a6fb9aa6a94d704ec170eea.gif)
 
-Olá meu nome é Luísa Lemos Teixeira, e sou formada em Licenciatura em Físca pela UFRJ desde 2022. Atualmente moro na Inglaterra em Warrington e estou aberta à vagas de trabalho remoto. Sou fluente em Inglês e nativa do Português (BR).
+Olá meu nome é Luísa Lemos Teixeira, atualmente moro na Inglaterra em Warrington e estou aberta à vagas de trabalho remoto. Sou fluente em Inglês e nativa do Português (BR).
 
-Estou em busca de uma mudança de carreira para a área de tecnologia, que me foi apresentada lá nos tempos da faculdade no Laboratório utilizando Python e na disciplina de Física Computacional quando utilizei o Fortran no ambiente do Ubuntu (Linux).
+Hello, my name is Luisa Lemos Teixeira, I currently live in Warrington, England, and I am open to remote work opportunities. I am fluent in English and a native speaker of Portuguese (BR).
 
-Hello, my name is Luisa Lemos Teixeira, and I have a BSc in Physics from UFRJ (graduated in 2022). I currently live in Warrington, England, and I am open to remote work opportunities. I am fluent in English and a native speaker of Portuguese (BR).
-
-I am looking to transition into a career in technology, an area I was introduced to during college. In the laboratory, I worked with Python, and in the Computational Physics course, I used Fortran in the Ubuntu (Linux) environment.
 
 ## Minhas habilidades / My Skills 💻📚
-Já venho estudando programação ativamente desde 2021. Tenho experiência com front-end development, Python, C, SQL, NoSQL and Git.
+Já venho estudando programação ativamente desde 2021. Tenho experiência com HTML5 e CSS e com linguagens de programação como Python, C, SQL, NoSQL, JavaScript and Git.
 
-I've been actively studying programming since 2021. I have experience with front-end development, Python, C, SQL, NoSQL and Git.
+I've been actively studying programming since 2021. I have experience with HTML5 e CSS and with programming languages such as Python, C, SQL, NoSQL, JavaScript and Git.
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
